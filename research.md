@@ -26,7 +26,7 @@ permalink: /research/
  
 <h3>Data science and Learning theory</h3>
 <!--Typically, to solve mathematically ill-posed learning problems, abstract learning tools such as deep neural networks are commonly employed to reconstruct unknown functions using data. Despite their popularity, they suffer from tedious and heuristic design, and in general, lacks interpretability both in design and in functionality. To move towards tractable strategies of employing NNs in control applications, I proposed interpretable and tractable learning strategies for model learning and controlling spiking neurons and network of neurons, respectively. In this context, in a collaborative work, we recently developed interpretable design of reservoir computing networks using system-theoretic principles. Furthermore, in the age of big data, it is inevitable to perform learning tasks that involve large-volumes of data. To deal with voluminous data, computational tools are required to be scalable, adaptive, and efficient. Recently, in a collaborative work, we developed a computational tool for solving large-scale linear-inverse problems, the parallel residual projection, which adopted a divide-and-conquer approach to address scalability issues. Building on this work, I will work on developing scalable, mathematically-grounded computational algorithms to solve large-scale optimization problems, with an application focus on deep-neural networks.-->
- <h4> Learning on dynamics networks</h4>
+ <h4> Learning on dynamic networks</h4>
  <h4> Computational intelligence</h4>
 
 <h3>Computational Neuroscience</h3>
