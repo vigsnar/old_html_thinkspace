@@ -19,6 +19,6 @@ permalink: /research/
 <h5>Modeling and data-integrated appoaches for dynamical systems</h5>
 <h5>Analysis and control synthesis for dynamic populations</h5>
 <h4>Data Science and Learning Theory</h4>
+<h5>Data analysis and dynamic learning</h5>
 <h4>Computational Neuroscience</h4>
 <h5>Modeling and stimulation of neural ensembles</h5>
-<h5>Data analysis and dynamic learning</h5>
