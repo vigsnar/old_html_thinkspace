@@ -16,7 +16,7 @@ permalink: /research/
 
 <h3>Research Topics<h3>
 <h4>Dynamical Systems and Networks</h4>
-<h5>Modeling and data-integrated appoaches for dynamical systems</h5>
+<h5>Modeling and data-integrated approaches for dynamical systems</h5>
 <h5>Analysis and control synthesis for dynamic populations</h5>
 <h4>Data Science and Learning Theory</h4>
 <h5>Data analysis and dynamic learning</h5>
